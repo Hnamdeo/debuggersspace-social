@@ -1,10 +1,10 @@
-# What we offer? (street-ride reel, 23 s)
+# What we offer? (street-ride reel, 19.5 s, electric sports car, hype edit)
 
 Video: what-we-offer-reel.mp4 (1080x1920, original music) · Cover: what-we-offer-cover.jpg
 Source: _source/what-we-offer.html (node rec-fn.js page outdir 23.1; music.py 23.1). Idea from a reference reel Himanshu shared 11 Nov (services as shops on a street); original vector art in brand colours.
 
 ## Instagram Reel / Facebook Reel
-What does Debuggers Space offer? Hop in, we'll show you around 🛺
+What does Debuggers Space offer? Buckle up, we’re taking you on a quick ride ⚡🚗
 
 🌐 Website Development: design, develop, live in 24 hrs
 🛒 E-commerce Stores: catalog, payments, orders
